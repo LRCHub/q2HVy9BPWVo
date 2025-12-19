@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "CLICK",
+  "base_artist": "ClariS",
+  "createdAt": "2025-12-19T21:44:55.368016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hallo Spaceboy - Double Click Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/01_Hallo_Spaceboy_-_Double_Click_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hallo Spaceboy (Double Click Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Hallo_Spaceboy_(Double_Click_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Click Clack",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_Click_Clack_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Click Click feat. E-40",
+      "artist": "MSTRKRFT",
+      "has_synced": true,
+      "path": "select/04_Click_Click_feat._E-40_MSTRKRFT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Click",
+      "artist": "MEDICINE",
+      "has_synced": false,
+      "path": "select/05_Never_Click_MEDICINE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ali Click",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/06_Ali_Click_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Click..Off..Gone",
+      "artist": "Sleeper",
+      "has_synced": false,
+      "path": "select/07_Click..Off..Gone_Sleeper.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grunt and Click (Bonus Track)",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/08_Grunt_and_Click_(Bonus_Track)_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grunt and Click",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/09_Grunt_and_Click_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Click",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/10_Click_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Click, Click, Click, Click",
+      "artist": "Bishop Allen",
+      "has_synced": false,
+      "path": "select/11_Click,_Click,_Click,_Click_Bishop_Allen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Song That Never Was (Click Track)",
+      "artist": "Imogen Heap",
+      "has_synced": true,
+      "path": "select/12_The_Song_That_Never_Was_(Click_Track)_Imogen_Heap.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Click",
+      "artist": "Breach feat. Dark Sky",
+      "has_synced": true,
+      "path": "select/13_The_Click_Breach_feat._Dark_Sky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Click",
+      "artist": "Breach & Dark Sky",
+      "has_synced": true,
+      "path": "select/14_The_Click_Breach_&_Dark_Sky.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Click (feat. Kim Petras and Tommy Cash)",
+      "artist": "Charli XCX feat. Kim Petras & Tommy Cash",
+      "has_synced": true,
+      "path": "select/15_Click_(feat._Kim_Petras_and_Tommy_Cash)_Charli_XCX_feat._Kim_Petras_&_Tommy_Cash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Click (feat. Kim Petras & Tommy Cash)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/16_Click_(feat._Kim_Petras_&_Tommy_Cash)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Click (feat. Kim Petras and Slayyyter) [No Boys Remix]",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/17_Click_(feat._Kim_Petras_and_Slayyyter)_[No_Boys_Remix]_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Click (feat. Kim Petras and Slayyyter) (No Boys Remix)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/18_Click_(feat._Kim_Petras_and_Slayyyter)_(No_Boys_Remix)_Charli_XCX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLICK",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_CLICK_ClariS.txt"
+    }
+  ]
+}
